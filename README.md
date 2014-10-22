@@ -1,11 +1,13 @@
 Beginn 12.30
 
-Jona
-Vladi
-Alex
+- Jona
+- Vladi
+- Alex
 
-baumann@inf
+baumann@inf...
 Betreff [SE-3] ..
+
+Dateiformat: `blatt01_Kuerzel.[txt,pl]`
 
 andere CCen..
 
