@@ -25,3 +25,8 @@ vater_von( johannes , klaus ).
 vater_von( johannes , andrea).
 vater_von( walter , barbara ).
 vater_von( walter , magdalena ).
+
+elternteil_von(A,B) :- vater_von(A,B) ; mutter_von(A,B).
+enkel_von(C,A) :- elternteil_von(A,B), elternteil_von(B, C).
+
+
